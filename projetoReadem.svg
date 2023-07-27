@@ -12,7 +12,7 @@
     <img class="img-marioCegonha" src="imagens /mario-voando-cegonha.PNG" alt="mario baby, com a segonha">
     <img class="booDeOculos" src="imagens /fantasma-d-oculos.PNG" alt="">
     <img class="boo1" src="imagens /boo-principal.PNG" alt="">
-    </div>
+    
 
     <div class="container">
 
@@ -108,6 +108,7 @@ para cima">
     <img class="pacManF" src="imagens /pac-man-f.gif" alt="">
     <img class="urso" src="imagens /urso-sem-curso.gif" alt="urso sem curso">
     <img class="kopasFogo" src="imagens /kops-fogo.gif" alt="kopas guspindo fogo">
+    </div>
 </body>
 </html>
 
