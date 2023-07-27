@@ -19,97 +19,95 @@
         <img class="img_bolhas" src="imagens /bolha2.PNG" alt="bolhas2">
         <img class="img_yosh1" src="imagens /yosh-mario-baby.PNG" alt="yosh mario baby">
         <img class="yosh2" src="imagens /yosh-com-lingua-d-fora.PNG" alt="yosh com a lingua de fora">
-        <img class="img_yosh3" src="imagens /mario-yosh-com-a-lingua-para-cima.PNG" alt="yosh com a lingua para cima">
+        <img class="img_yosh3" src="imagens /mario-yosh-com-a-lingua-para-cima.PNG" alt="yosh com a lingua 
+para cima">
         <img class="booDentuco" src="imagens /king-boo.PNG" alt="fantasma mostrando os dentes">
         <img class="img_pacMan" src="imagens /pac-man-ninja.PNG" alt="pac man de tartarugas ninjas">
 
         <div>
-            <img class="javascript"src="imagens /icons8-javascript.svg"alt="">
-            <img class="typescript"src="imagens /icons8-typescript.svg"alt="icons8-typescript ">
-            <img class="html"src="imagens /icons8-html.svg"alt="icons8-html">
-            <img class="css"src="imagens /icons8-css.svg"alt="icons8-css">
-            <img class="figma"src="imagens /icons8-figma.svg"alt="icons8-figma">
-            <img class="git"src="imagens /icons8-git.svg"alt="icons8-git">
-            <img class="github"src="imagens /git2.PNG"alt="icons8-github">
-            <img class="mysql"src="imagens /icons8-mysql-24.png"alt="icons8-mysql-24">
-            <img class="react"src="imagens /icons8-nativo-de-reagir.svg"alt="icons8-nativo-de-react">
-            <img class="nodejs"src="imagens /icons8-nodejs.svg"alt="icons8-nodejs">
-            <img class="angularjs" src="imagens /icons8-angularjs.svg"alt="icons8-angularjs">
-            <img class="linux"src="imagens /linux1.PNG"alt="icons8-linux">
-            <img class="python"src="imagens /icons8-python.svg"alt="icons8-python">
-            <img class="arduino"src="imagens /icons8-arduino.svg"alt="arduino">
-            <img class="c"src="imagens /c.svg"alt="icons8-">
+            <img class="javascript" src="imagens /icons8-javascript.svg" alt="">
+            <img class="typescript" src="imagens /icons8-typescript.svg" alt="icons8-typescript ">
+            <img class="html" src="imagens /icons8-html.svg" alt="icons8-html">
+            <img class="css" src="imagens /icons8-css.svg" alt="icons8-css">
+            <img class="figma" src="imagens /icons8-figma.svg" alt="icons8-figma">
+            <img class="git" src="imagens /icons8-git.svg" alt="icons8-git">
+            <img class="github" src="imagens /git2.PNG" alt="icons8-github">
+            <img class="mysql" src="imagens /icons8-mysql-24.png" alt="icons8-mysql-24">
+            <img class="react" src="imagens /icons8-nativo-de-reagir.svg" alt="icons8-nativo-de-react">
+            <img class="nodejs" src="imagens /icons8-nodejs.svg" alt="icons8-nodejs">
+            <img class="angularjs" src="imagens /icons8-angularjs.svg" alt="icons8-angularjs">
+            <img class="linux" src="imagens /linux1.PNG" alt="icons8-linux">
+            <img class="python" src="imagens /icons8-python.svg" alt="icons8-python">
+            <img class="arduino" src="imagens /icons8-arduino.svg" alt="arduino">
+            <img class="c" src="imagens /c.svg" alt="icons8-">
         </div>
     </div>
-    <img class="caixaVoando"src="imagens /caixa-voando.PNG"alt="caixa que voa">
-    <img class="luige"src="imagens /luige.PNG"alt="luige voando">
-    <img class="marioVoando"src="imagens /mario-voando2.PNG"alt="mario voando">
-    <img class="kopasNaXicara"src="imagens /bower-kopas-na-xicara.PNG"alt="kopas na xicara">
-    <img class="cenario1"src="imagens /cenario-vazio-nuvem.PNG"alt="cenario1">
-    <img class="nuvens"src="imagens /nuvens - cópia.PNG"alt="nuvens">
-    <img class="cenarioInvertido"src="imagens /cenario-invertido.PNG"alt="cenario invertido">
-    <img class="cenario3"src="imagens /nuvens-arbustos-caixa.PNG"alt=" cenario 3">
-    <img class="peachTunel"src="imagens /peach-saindo-do-tunel.PNG"alt="peach saindo do tunel">
-    <img class="planta1"src="imagens /planta-piranha-chao.PNG"alt="planta saindo do chao">
-    <img class="yoshCagao"src="imagens /yosh-se-aliviando.PNG"alt="yosh fazendo toto">
-    <img class="bruxinhaAzul"src="imagens /kamek.PNG"alt="kamek, bruxinha azul">
-    <img class="casteloBranco"src="imagens /castelo-branco-vermelho.PNG"alt="castelo branco">
-    <img class="cong"src="imagens /cong-baby.PNG"alt="cong baby">
-    <img class="familia"src="imagens /peach-mario-luige-toad.PNG"alt="img da peach, mario,luige e toad">
-    <img class="yoshComOvos"src="imagens /yosh-e-os-ovos.PNG"alt="yosh com oso ovos">
-    <img class="yoshAzul"src="imagens /yosh-azul.PNG"alt="yosh azul">
-    <img class="caixaAmarelaLaranja"src="imagens /caixa-magica-am-l.PNG"alt="caixa amarela e laranja">
-    <img class="caixa"src="imagens /caixa.PNG"alt="caixa">
-    <img class="kopasOculos"src="imagens /ludwig-d-oculos.PNG"alt="kopas fem de oculos">
-    <img class="kopasAzul"src="imagens /ludwing-von-kopa.PNG"alt="kopas cabelo azul">
-    <img class="kopasColorido"src="imagens /iggykoopas.PNG"alt="kopas cabelo colorido">
-    <img class="kopas"src="imagens /bowser-kopa.PNG"alt="kopas">
-    <img class="kopasTunelParede"src="imagens /bower-tunel-parede.PNG"alt="kopas saindo do tunel chao">
-    <img class="estrela"src="imagens /estrela.PNG"alt="estrela">
-    <img class="estrelaColorida"src="imagens /estrela-colorida.PNG"alt="estrela colorida">
-    <img class="estrelaColorida2"src="imagens /estrela-colorida.PNG"alt="estrela colorida 2">
-    <img class="estrelaFofa"src="imagens /estrela-fofa.PNG"alt="estrela fofa">
-    <img class="ourico"src="imagens /ourico.PNG"alt="ourico">
-    <img class="cactus"src="imagens /cactus.PNG"alt="cactus">
-    <img class="florDeFogoNaCaixa"src="imagens /flor-d-fogo-saindo-da-caixa.PNG" alt="flor de fogo saindo d caixa">
-    <img class="florDeFogo"src="imagens /flor-d-fogo.PNG"alt="flor de fogo">
-    <img class="mlPegandoVida"src="imagens /cena-mario--vida.PNG"alt="mario luige pegando vida">
-    <img class="goonbas"src="imagens /goombas.PNG"alt="gogumelo marron">
-    <img class="dory"src="imagens /dory.PNG"alt="dory">
-    <img class="bruxinhaVassoura"src="imagens /kamek-na-vassoura.PNG"alt="bruxinha na vassoura">
-    <img class="kirby"src="imagens /kirby-bay.PNG"alt="kirly dando xau">
-    <img class="kirly1"src="imagens /kirly1.PNG"alt="kirly 1">
-    <img class="shygui"src="imagens /shy-guy.PNG"alt="bixinho vermelho">
-    <img class="toad"src="imagens /toad.PNG"alt="toad">
-    <img class="toadVovo"src="imagens /toadsworth.PNG"alt="toad vovo">
-    <img class="plantaPiranha"src="imagens /planta-piranha.PNG"alt="planta piranha">
-    <img class="plantaPiranhaTunel"src="imagens /planta-piranha-no-tunel.PNG"alt="planta piranha saindo do tunel">
-    <img class="yoshAzulOvo"src="imagens /yosh-azul-com-o-ovo.PNG"alt="yosh azul com o ovo">
-    <img class="yoshVerdeOvo"src="imagens /yosh-com-ovo.PNG"alt="yosh verde com ovo">
-    <img class="yoshPensando"src="imagens /yosh-pensando.PNG"alt="yosh pensando">
-    <img class="peach"src="imagens /peach.PNG"alt="Peach">
-    <img class="esqueletoPeixe"src="imagens /pezueso-esqueleto-d- peixe.PNG"alt="esqueleto de peixe">
-    <img class="marioPeach"src="imagens /mario-peach-2.PNG"alt="mario e peach fazendo 2">
-    <img class="familiaBaby"src="imagens /mario-peach-cong-baby.PNG"alt="familia baby">
-    <img class="laktuby"src="imagens /lakitu-by.PNG"alt="bixinho amarelo na nuven">
-    <img class="bixinhoComSemafaro"src="imagens /lakitu-by-cemafaro.PNG"alt="bixinho amarelo com cemafaro">
-    <img class="kopasTunelChao"src="imagens /koopas-tunel-no-chao.PNG"alt="kopas saindo do tunel">
-    <img class="chave"src="imagens /chave.PNG"alt="chave">
-    <img class="cenaCavaloMarinho"src="imagens /cenario-cavalo-marinho.PNG"alt="cenario com cavalo marinho">
-    <img class="marioTrampolin"src="imagens /cena-mario-trampolim.PNG"alt="mario em um tranpolim">
-    <img class="bocuda"src="imagens /birdo-e-companhia.PNG"alt="bixinho rosa com a boca grande">
-    <img class="pacman"src="imagens /pac-main.PNG"alt="pacman moderno">
-    <img class="gary"src="imagens /gary.gif"alt="gary">
-    <img class="pacmanAmarelo"src="imagens /pac-man-amarelo.PNG"alt="pacman amarelo">
-    <img class="pacmanNaFaixa"src="imagens /pac-man-faixa.PNG"alt="pacman atravessando a faixa">
-    <img class="comeCome"src="imagens /comeCome.png"alt="come come">
-    <img class="pacManBrigando"src="imagens /pac-man-brigando.gif"alt="pac-man brigando">
-    <img class="pacManF"src="imagens /pac-man-f.gif"alt="">
-    <img class="urso"src="imagens /urso-sem-curso.gif"alt="urso sem curso">
-    <img class="kopasFogo"src="imagens /kops-fogo.gif"alt="kopas guspindo fogo">
-
-
-
+    <img class="caixaVoando" src="imagens /caixa-voando.PNG" alt="caixa que voa">
+    <img class="luige" src="imagens /luige.PNG" alt="luige voando">
+    <img class="marioVoando" src="imagens /mario-voando2.PNG" alt="mario voando">
+    <img class="kopasNaXicara" src="imagens /bower-kopas-na-xicara.PNG" alt="kopas na xicara">
+    <img class="cenario1" src="imagens /cenario-vazio-nuvem.PNG" alt="cenario1">
+    <img class="nuvens" src="imagens /nuvens - cópia.PNG" alt="nuvens">
+    <img class="cenarioInvertido" src="imagens /cenario-invertido.PNG" alt="cenario invertido">
+    <img class="cenario3" src="imagens /nuvens-arbustos-caixa.PNG" alt=" cenario 3">
+    <img class="peachTunel" src="imagens /peach-saindo-do-tunel.PNG" alt="peach saindo do tunel">
+    <img class="planta1" src="imagens /planta-piranha-chao.PNG" alt="planta saindo do chao">
+    <img class="yoshCagao" src="imagens /yosh-se-aliviando.PNG" alt="yosh fazendo toto">
+    <img class="bruxinhaAzul" src="imagens /kamek.PNG" alt="kamek, bruxinha azul">
+    <img class="casteloBranco" src="imagens /castelo-branco-vermelho.PNG" alt="castelo branco">
+    <img class="cong" src="imagens /cong-baby.PNG" alt="cong baby">
+    <img class="familia" src="imagens /peach-mario-luige-toad.PNG" alt="img da peach, mario,luige e toad">
+    <img class="yoshComOvos" src="imagens /yosh-e-os-ovos.PNG" alt="yosh com oso ovos">
+    <img class="yoshAzul" src="imagens /yosh-azul.PNG" alt="yosh azul">
+    <img class="caixaAmarelaLaranja" src="imagens /caixa-magica-am-l.PNG" alt="caixa amarela e laranja">
+    <img class="caixa" src="imagens /caixa.PNG" alt="caixa">
+    <img class="kopasOculos" src="imagens /ludwig-d-oculos.PNG" alt="kopas fem de oculos">
+    <img class="kopasAzul" src="imagens /ludwing-von-kopa.PNG" alt="kopas cabelo azul">
+    <img class="kopasColorido" src="imagens /iggykoopas.PNG" alt="kopas cabelo colorido">
+    <img class="kopas" src="imagens /bowser-kopa.PNG" alt="kopas">
+    <img class="kopasTunelParede" src="imagens /bower-tunel-parede.PNG" alt="kopas saindo do tunel chao">
+    <img class="estrela" src="imagens /estrela.PNG" alt="estrela">
+    <img class="estrelaColorida" src="imagens /estrela-colorida.PNG" alt="estrela colorida">
+    <img class="estrelaColorida2" src="imagens /estrela-colorida.PNG" alt="estrela colorida 2">
+    <img class="estrelaFofa" src="imagens /estrela-fofa.PNG" alt="estrela fofa">
+    <img class="ourico " src="imagens /ourico.PNG" alt="ourico">
+    <img class="cactus" src="imagens /cactus.PNG" alt="cactus">
+    <img class="florDeFogoNaCaixa" src="imagens /flor-d-fogo-saindo-da-caixa.PNG" alt="flor de fogo saindo d caixa">
+    <img class="florDeFogo" src="imagens /flor-d-fogo.PNG" alt="flor de fogo">
+    <img class="mlPegandoVida" src="imagens /cena-mario--vida.PNG" alt="mario luige pegando vida">
+    <img class="goonbas" src="imagens /goombas.PNG" alt="gogumelo marron">
+    <img class="dory" src="imagens /dory.PNG" alt="dory">
+    <img class="bruxinhaVassoura" src="imagens /kamek-na-vassoura.PNG" alt="bruxinha na vassoura">
+    <img class="kirby" src="imagens /kirby-bay.PNG" alt="kirly dando xau">
+    <img class="kirly1" src="imagens /kirly1.PNG" alt="kirly 1">
+    <img class="shygui" src="imagens /shy-guy.PNG" alt="bixinho vermelho">
+    <img class="toad" src="imagens /toad.PNG" alt="toad">
+    <img class="toadVovo" src="imagens /toadsworth.PNG" alt="toad vovo">
+    <img class="plantaPiranha" src="imagens /planta-piranha.PNG" alt="planta piranha">
+    <img class="plantaPiranhaTunel" src="imagens /planta-piranha-no-tunel.PNG" alt="planta piranha saindo do tunel">
+    <img class="yoshAzulOvo" src="imagens /yosh-azul-com-o-ovo.PNG" alt="yosh azul com o ovo">
+    <img class="yoshVerdeOvo" src="imagens /yosh-com-ovo.PNG" alt="yosh verde com ovo">
+    <img class="yoshPensando" src="imagens /yosh-pensando.PNG" alt="yosh pensando">
+    <img class="peach" src="imagens /peach.PNG" alt="Peach">
+    <img class="esqueletoPeixe" src="imagens /pezueso-esqueleto-d- peixe.PNG" alt="esqueleto de peixe">
+    <img class="marioPeach" src="imagens /mario-peach-2.PNG" alt="mario e peach fazendo 2">
+    <img class="familiaBaby" src="imagens /mario-peach-cong-baby.PNG" alt="familia baby">
+    <img class="laktuby" src="imagens /lakitu-by.PNG" alt="bixinho amarelo na nuven">
+    <img class="bixinhoComSemafaro" src="imagens /lakitu-by-cemafaro.PNG" alt="bixinho amarelo com cemafaro">
+    <img class="kopasTunelChao" src="imagens /koopas-tunel-no-chao.PNG" alt="kopas saindo do tunel">
+    <img class="chave" src="imagens /chave.PNG" alt="chave">
+    <img class="cenaCavaloMarinho" src="imagens /cenario-cavalo-marinho.PNG" alt="cenario com cavalo marinho">
+    <img class="marioTrampolin" src="imagens /cena-mario-trampolim.PNG" alt="mario em um tranpolim">
+    <img class="bocuda" src="imagens /birdo-e-companhia.PNG" alt="bixinho rosa com a boca grande">
+    <img class="pacman" src="imagens /pac-main.PNG" alt="pacman moderno">
+    <img class="gary" src="imagens /gary.gif" alt="gary">
+    <img class="pacmanAmarelo" src="imagens /pac-man-amarelo.PNG" alt="pacman amarelo">
+    <img class="pacmanNaFaixa" src="imagens /pac-man-faixa.PNG" alt="pacman atravessando a faixa">
+    <img class="comeCome" src="imagens /comeCome.png" alt="come come">
+    <img class="pacManBrigando" src="imagens /pac-man-brigando.gif" alt="pac-man brigando">
+    <img class="pacManF" src="imagens /pac-man-f.gif" alt="">
+    <img class="urso" src="imagens /urso-sem-curso.gif" alt="urso sem curso">
+    <img class="kopasFogo" src="imagens /kops-fogo.gif" alt="kopas guspindo fogo">
 </body>
 </html>
 
