@@ -12,7 +12,7 @@
     <img class="img-marioCegonha" src="imagens /mario-voando-cegonha.PNG" alt="mario baby, com a segonha">
     <img class="booDeOculos" src="imagens /fantasma-d-oculos.PNG" alt="">
     <img class="boo1" src="imagens /boo-principal.PNG" alt="">
-    
+    </div>
 
     <div class="container">
 
@@ -24,7 +24,7 @@ para cima">
         <img class="booDentuco" src="imagens /king-boo.PNG" alt="fantasma mostrando os dentes">
         <img class="img_pacMan" src="imagens /pac-man-ninja.PNG" alt="pac man de tartarugas ninjas">
 
-        <div>
+        
             <img class="javascript" src="imagens /icons8-javascript.svg" alt="">
             <img class="typescript" src="imagens /icons8-typescript.svg" alt="icons8-typescript ">
             <img class="html" src="imagens /icons8-html.svg" alt="icons8-html">
