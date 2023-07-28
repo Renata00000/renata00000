@@ -4,14 +4,13 @@
 
 
 
-
+</h1>
+<img src="" width="" height=""> 
 
 <h1 align="center">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/%E2%98%86SailorSparkles%E2%98%86.gif?raw=true" width="110" height="140"> 
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/%E2%99%BB%EF%B8%8F%F0%9F%8C%9F%F0%9F%8D%93%F0%9F%92%AC.gif?raw=true" width="90" height="100"> 
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Super%20Mario%20Nintendo%20Sticker%20by%20GIPHY%20Gaming%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true" width="100" height="150"> 
-
- </h1>
 
  
  <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font><br>Readme em manuteção, estou personalizando aos poucos</br></h1>
@@ -112,4 +111,3 @@
 
 
 
-![image](https://github.com/Renata00000/renata00000/assets/125274790/b8172ca1-a953-4634-83a8-3bf08adfe3a9)
