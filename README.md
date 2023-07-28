@@ -3,13 +3,15 @@
  <img height="100%" width="100%" alt="Bottom" src="https://github.com/Renata00000/Renata00000/blob/main/header.svg"/> 
 
 
- 
+ <div align="center"> 
  <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font><br></h1>
-
+<div>
  
  <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2>
 </h1>
-<img src="https://github.com/Renata00000/renata00000/blob/main/tecnologias.PNG?raw=true" width="" height=""> 
+<img src="https://github.com/Renata00000/renata00000/blob/main/tecnologias.PNG?raw=true" width="800px" height="600px"> 
+
+
 
 <h1 align="center">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/%E2%98%86SailorSparkles%E2%98%86.gif?raw=true" width="110" height="140"> 
@@ -21,29 +23,7 @@
  <!--letreiro-->
 
 
- <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2>
-<p align="">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/imagens/nuvens.PNG?raw=true" width="300" height="70">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/imagens/nuvens.PNG?raw=true" width="300" height="50">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/imagens/nuvens.PNG?raw=true" width="300" height="80">
-  </p>
-<div style= 'display: inline_block'>
-<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/mario-voando-cegonha.PNG?raw=true" width="190" height="110"> 
-<img align = 'center' alt= 'javascript' height='40' width='50' src= "" />
-<img align = 'center' alt='Typescript' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align = 'center' alt= 'HTML' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align = 'center' alt= 'CSS3' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align = 'center' alt= 'Figma' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align = 'center' alt= 'git' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align = 'center' alt= 'github' height='30' width='40' src= "https://github.com/Renata00000/Renata00000/assets/125274790/e4cc101d-c799-4af1-abf2-b1cda2b0677b"/>
-<img align = 'center' alt= 'MySQL' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align = 'center' alt= 'nodjs' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align = 'center' alt= 'react' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align = 'center' alt= 'AngularJs' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align = 'center' alt= 'Arduino' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align = 'center' alt= 'python' height='30' width='40' src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img align = 'center' alt= 'linux' height='40' width='50' src= "" />
-</div>
+
 
 <!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/21%20Reasons%20Mario%20Is%20Your%20Dream%20Man.gif?raw=true" width="90" height="90"> 
 
