@@ -97,10 +97,10 @@
 
 
 <!--animacao patinho rosa  -->
-<p align="center">
+<!--<p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif" height="150" width="150">
 
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif" height="150" width="150"> 
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/party-stub.gif" height="150" width="150"> -->
 
 
 
