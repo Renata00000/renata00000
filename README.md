@@ -1,9 +1,10 @@
 
 <!-- cabeçalho-->
  <img height="100%" width="100%" alt="Bottom" src="https://github.com/Renata00000/Renata00000/blob/main/header.svg"/> 
- <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/peach.gif?raw=true" width="100px"height="100px">
+
  
  <div align="center"> 
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/peach.gif?raw=true" width="100px"height="100px">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Super%20Mario%20Nintendo%20Sticker%20by%20GIPHY%20Gaming%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true" width="100px" height="100px"> 
 <div>
 
@@ -17,11 +18,9 @@
 </div>
 
 
-<img src=" https://github.com/Renata00000/renata00000/blob/main/gifs/peach.gif?raw=true" width="100px"height="100px">
-
 <div>
   <p align="center">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/urso-sem-curso.gif?raw=true" width="250px" height="150px" style="margin-left: 40%;">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/urso-sem-curso.gif?raw=true" width="150px" height="150px" style="margin-left: 40%;">
 </p>
 
 
