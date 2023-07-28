@@ -3,7 +3,7 @@
  <img height="100%" width="100%" alt="Bottom" src="https://github.com/Renata00000/Renata00000/blob/main/header.svg"/> 
 
 
-<img src="https://github.com/Renata00000/renata00000/configuracoes/index.svg" alt="Meu Projeto">
+
 
 
 <h1 align="center">
@@ -81,14 +81,14 @@
 
   <!--rodape -->
  <img height="100%" width="100%" alt="Bottom" src="https://github.com/Renata00000/Renata00000/blob/main/footer.svg"/> 
-  <img height="100%" width="100%" alt="Bottom" src="https://github.com/Renata00000/Renata00000/blob/main/painel.svg"/> 
+
  
 
 
 
 
 
- <img align="center" src="https://github.com/renata00000/renata00000/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Aquarius Blake" > 
+
 
 
 
