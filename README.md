@@ -3,9 +3,13 @@
  <img height="100%" width="100%" alt="Bottom" src="https://github.com/Renata00000/Renata00000/blob/main/header.svg"/> 
 
 
+ 
+ <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font><br></h1>
 
+ 
+ <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2>
 </h1>
-<img src="" width="" height=""> 
+<img src="https://github.com/Renata00000/renata00000/blob/main/tecnologias.PNG?raw=true" width="" height=""> 
 
 <h1 align="center">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/%E2%98%86SailorSparkles%E2%98%86.gif?raw=true" width="110" height="140"> 
@@ -13,7 +17,7 @@
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Super%20Mario%20Nintendo%20Sticker%20by%20GIPHY%20Gaming%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true" width="100" height="150"> 
 
  
- <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font><br>Readme em manuteção, estou personalizando aos poucos</br></h1>
+
  <!--letreiro-->
 
 
