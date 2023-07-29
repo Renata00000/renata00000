@@ -39,7 +39,7 @@
 </div>
 
  
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1100px" height="350px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1100px" height="310px">
 
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2023.06.23.png?raw=true" width="1200px" height="360px">
 
