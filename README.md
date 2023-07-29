@@ -18,22 +18,40 @@
 </div>
 
 
-<div>
-  <p align="center">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/urso-sem-curso.gif?raw=true" width="150px" height="150px" style="margin-left: 40%;">
-</p>
+
+   
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="350px" height="150px">
+
+ 
+<!-- <div align="left"> 
+ <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-se-aliviando2.PNG?raw=true" width="90px" height="90px">
+   </div>-->
 
 
+  <div align="left"> 
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="300px" height="120px">
 </div>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+  
+    <img src="" width="100px" height="100px">
+     <img src="" width="100px" height="100px">
+      <img src="" width="100px" height="100px">
+      
+
+
+
+
+
+<!--<<div>
+  <p align="center">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/urso-sem-curso.gif?raw=true" width="150px" height="150px" style="margin-left: 40%;">
+</p>
+</div>-->
+
+
+
 
 
 
