@@ -36,18 +36,12 @@
   <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">
   <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="213px" height="100px">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="355px" height="100px">
-
-
 </div>
 
  
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1100px" height="350px">
 
-
-
-
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="px" height="px">
-
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2023.06.23.png?raw=true" width="px" height="px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2023.06.23.png?raw=true" width="1200px" height="360px">
 
 
   
