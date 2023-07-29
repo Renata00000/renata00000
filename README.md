@@ -10,10 +10,11 @@
 
  <div align="center"> 
  <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font><br></h1>
+  
  <div align="center"> 
  
   <div align="center"> 
- <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2>
+ <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2> 
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/tecnologia2.PNG?raw=true" width="600px" height="500px"> 
 </div>
 
@@ -32,7 +33,6 @@
    </div>-->
 
 <div align="center"> 
-
   <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">
   <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="213px" height="100px">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="355px" height="100px">
@@ -95,6 +95,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata00000&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+
+
 <!-- anime-->
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:renata00000?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 
@@ -104,6 +106,7 @@
 
   <!-- Conecte-me🦶--> 
 <p align="center">
+ <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/gary2.gif?raw=true" width="100px"height="100px">
 <a target="_blank" href="https://www.linkedin.com/in/renata-cristiane/"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
 <a target="_blank" href="https://www.instagram.com/renata0cristiane/"><img width="50px" src="https://i.ibb.co/HNZ3rrt/Insta-Gram.png" alt="InstaGram" border="0"></a>
  </p> 
