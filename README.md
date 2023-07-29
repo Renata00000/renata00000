@@ -20,10 +20,10 @@
 
 <div align="center"> 
 
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width=10px" height="1px">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="150px" height="1px">
    <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="250px" height="90px">
-     <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="100px" height="1px">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="100px" height="40px">
+     <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="60px" height="1px">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="90px" height="30px">
 
 </div>
  
