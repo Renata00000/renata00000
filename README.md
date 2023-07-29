@@ -26,11 +26,18 @@
  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-se-aliviando2.PNG?raw=true" width="90px" height="90px">
    </div>-->
 
-
-  <div align="left"> 
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="300px" height="120px">
+<div align="left"> 
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="300px" height="120px">
+ <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="100px" height="1px">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="150px" height="50px">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="0px" height="1px">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="230px" height="150px">
+ <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="px60" height="30px">
 </div>
 
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="px" height="px">
+
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2023.06.23.png?raw=true" width="px" height="px">
 
 
   
@@ -75,13 +82,13 @@
 
   
 <!-- Gif do mario-->
-  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<!--  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
 <!--grafico de atividades -->
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renata00000&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Renata00000 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata00000&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=renata00000&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Renata00000 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata00000&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <!-- anime-->
