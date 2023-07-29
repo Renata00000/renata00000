@@ -18,7 +18,6 @@
 </div>
 
 
-
    
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="350px" height="150px">
 
@@ -35,9 +34,8 @@
 
 
   
-    <img src="" width="100px" height="100px">
-     <img src="" width="100px" height="100px">
-      <img src="" width="100px" height="100px">
+
+    
       
 
 
@@ -54,12 +52,6 @@
 
 
 
-
-
-<h1 align="center">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/%E2%98%86SailorSparkles%E2%98%86.gif?raw=true" width="110px" height="140px"> 
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/%E2%99%BB%EF%B8%8F%F0%9F%8C%9F%F0%9F%8D%93%F0%9F%92%AC.gif?raw=true" width="90" height="100"> 
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Super%20Mario%20Nintendo%20Sticker%20by%20GIPHY%20Gaming%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true" width="100" height="150"> 
 
  
 
