@@ -14,26 +14,31 @@
  
   <div align="center"> 
  <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2>
-<img src="https://github.com/Renata00000/renata00000/blob/main/tecnologias.PNG?raw=true" width="800px" height="600px"> 
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/tecnologia2.PNG?raw=true" width="600px" height="500px"> 
 </div>
 
 
-   
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/tecnologia2.PNG?raw=true" width="350px" height="150px">
+   <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="250px" height="90px">
 
  
 <!-- <div align="left"> 
  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-se-aliviando2.PNG?raw=true" width="90px" height="90px">
    </div>-->
 
-<div align="left"> 
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="300px" height="120px">
- <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="100px" height="1px">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="150px" height="50px">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="0px" height="1px">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="230px" height="150px">
- <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="px60" height="30px">
+<div align="center"> 
+
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="213px" height="100px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="355px" height="100px">
+
+
 </div>
+
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="0px" height="1px">
+ <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="px60" height="30px">
+
+
+
 
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="px" height="px">
 
