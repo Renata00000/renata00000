@@ -8,6 +8,7 @@
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Super%20Mario%20Nintendo%20Sticker%20by%20GIPHY%20Gaming%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true" width="100px" height="100px"> 
 <div>
 
+
  <div align="center"> 
  <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font><br></h1>
   
@@ -16,6 +17,7 @@
   <div align="center"> 
  <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2> 
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/tecnologia2.PNG?raw=true" width="600px" height="500px"> 
+   
 </div>
 
 
@@ -33,15 +35,17 @@
    </div>-->
 
 <div align="center"> 
+ 
   <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">
-  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="213px" height="100px">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="355px" height="100px">
+  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="302px" height="120px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="300px" height="112px">
+ <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/21%20Reasons%20Mario%20Is%20Your%20Dream%20Man.gif?raw=true" width="130px"height="115px">
 </div>
 
  
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1100px" height="300px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1200px" height="300px">
 
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2023.06.23.png?raw=true" width="1200px" height="250px">
+
 
 
   
