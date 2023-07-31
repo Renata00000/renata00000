@@ -38,7 +38,7 @@
  
   <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">
   <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="350px" height="120px">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="280px" height="112px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="230px" height="112px">
  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/21%20Reasons%20Mario%20Is%20Your%20Dream%20Man.gif?raw=true" width="120px"height="110px">
 </div>
 
