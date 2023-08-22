@@ -35,12 +35,12 @@
 </div>
 
 <!--imag  de um cenario com montagem dos elementos-->
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1200px" height="300px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1200px" height="290px">
 
 <!--grafico de atividades -->
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renata00000&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Renata00000 github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata00000&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Renata00000&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Renata00000 github stats" /> 
+<img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata00000&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <!-- anime-->
