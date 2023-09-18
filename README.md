@@ -23,13 +23,13 @@
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="150px" height="1px">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="250px" height="90px">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="60px" height="1px">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="90px" height="30px">
+<!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="90px" height="30px">-->
 </div>
 
 <!--img yosh com os ovos, img pacmain amarelo, gif pac-main, gif mario -->
 <div align="center"> 
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="285px" height="120px">
+<!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">-->
+<!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="285px" height="120px">-->
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="310px" height="112px">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/21%20Reasons%20Mario%20Is%20Your%20Dream%20Man.gif?raw=true" width="120px"height="110px">
 </div>
