@@ -21,7 +21,7 @@
 <!--gif e img pac-main ( espacamento, img invisivel para pode posicionar os elementos ja que o github nao aceita o uso de propriedades com valores)-->
 <div align="center"> 
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="150px" height="1px">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="250px" height="90px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="360px" height="120px">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="60px" height="1px">
 <!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="90px" height="30px">-->
 </div>
@@ -30,12 +30,13 @@
 <div align="center"> 
 <!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">-->
 <!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="285px" height="120px">-->
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="310px" height="112px">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/21%20Reasons%20Mario%20Is%20Your%20Dream%20Man.gif?raw=true" width="120px"height="110px">
+ <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="95px" height="1px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="500px" height="150px">
+<!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/21%20Reasons%20Mario%20Is%20Your%20Dream%20Man.gif?raw=true" width="120px"height="110px">-->
 </div>
 
 <!--imag  de um cenario com montagem dos elementos-->
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1200px" height="290px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Captura%20de%20Tela%202023-07-28%20a%CC%80s%2022.53.42.png?raw=true" width="1200px" height="190px">
 
 <!--grafico de atividades -->
 <div align="center">  
