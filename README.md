@@ -21,7 +21,7 @@
 <!--gif e img pac-main ( espacamento, img invisivel para pode posicionar os elementos ja que o github nao aceita o uso de propriedades com valores)-->
 <div align="center"> 
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="150px" height="1px">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="360px" height="120px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-f.gif?raw=true" width="350px" height="110px">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="60px" height="1px">
 <!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-ninja%202.PNG?raw=true" width="90px" height="30px">-->
 </div>
@@ -31,7 +31,7 @@
 <!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/yosh-e-os-ovos.PNG?raw=true" width="100px" height="50px">-->
 <!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/comeCome2.png?raw=true" width="285px" height="120px">-->
  <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/espacamento.PNG?raw=true" width="95px" height="1px">
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="500px" height="150px">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/pac-man-brigando.gif?raw=true" width="470px" height="140px">
 <!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/21%20Reasons%20Mario%20Is%20Your%20Dream%20Man.gif?raw=true" width="120px"height="110px">-->
 </div>
 
