@@ -15,7 +15,7 @@
 <!--imaagem das tecnologias que uso -->
 <div align="center"> 
 <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2> 
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/tecnologia2.PNG?raw=true" width="600px" height="500px"> 
+<img src="https://github.com/Renata00000/renata00000/blob/main/configuracoes/imagens/projetoAtualizado2.PNG?raw=true" width="600px" height="500px"> 
 </div>
 
 <!--gif e img pac-main ( espacamento, img invisivel para pode posicionar os elementos ja que o github nao aceita o uso de propriedades com valores)-->
